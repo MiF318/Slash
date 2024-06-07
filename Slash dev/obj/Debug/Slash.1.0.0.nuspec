@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Slash</id>
+    <version>1.0.0</version>
+    <authors>Slash</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e65baae5ed90d72238acf355d9ea99b01d26f5b8" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Алексей\C-sharp\Slash\obj\Debug\net8.0-windows\ru-RU\Slash.resources.dll" target="lib\net8.0-windows7.0\ru-RU\Slash.resources.dll" />
+    <file src="D:\Алексей\C-sharp\Slash\bin\Debug\net8.0-windows\Slash.runtimeconfig.json" target="lib\net8.0-windows7.0\Slash.runtimeconfig.json" />
+    <file src="D:\Алексей\C-sharp\Slash\bin\Debug\net8.0-windows\Slash.dll" target="lib\net8.0-windows7.0\Slash.dll" />
+  </files>
+</package>

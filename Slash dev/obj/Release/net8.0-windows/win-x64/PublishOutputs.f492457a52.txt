@@ -1,0 +1,6 @@
+D:\Алексей\C-sharp\Slash realese\Slash.exe
+D:\Алексей\C-sharp\Slash realese\Slash.dll
+D:\Алексей\C-sharp\Slash realese\Slash.deps.json
+D:\Алексей\C-sharp\Slash realese\Slash.runtimeconfig.json
+D:\Алексей\C-sharp\Slash realese\Slash.pdb
+D:\Алексей\C-sharp\Slash realese\ru-RU\Slash.resources.dll
